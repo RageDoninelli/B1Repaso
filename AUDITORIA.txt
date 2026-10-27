@@ -1,0 +1,24 @@
+V.I.V.A. B1 EXAM TRAINER — AUDITORÍA TÉCNICA (27/10/2026)
+
+Material de referencia recibido: Interchange 5th Edition Level 2 Student Book (PDF 162 páginas), Workbook (101 páginas), 12 capturas.
+ALCANCE: Esta auditoría valida el banco de preguntas y archivos web existentes; NO constituye una revisión exhaustiva página por página de los libros escaneados ni una prueba en Android real.
+
+PREGUNTAS POR TEMA:
+- Used to: 19
+- Expressions of quantity: 19
+- Simple past vs. present perfect: 21
+- Going to vs. will: 19
+- Polite requests: 19
+- Suggestions with infinitives: 17
+- Time contrasts: 17
+- Gerunds and short responses: 16
+- Past passive with by: 18
+- Permission and obligation: 18
+- Reported requests: 18
+- Reported statements: 18
+
+TOTAL: 219 preguntas.
+DUPLICADOS ELIMINADOS: 4.
+VERIFICACIONES: preguntas únicas dentro de cada tema, 4 opciones únicas por reactivo de selección, respuesta presente en opciones, 12 unidades, manifiesto e íconos PWA, revisión sintáctica de JavaScript.
+LIMITACIONES PENDIENTES: las respuestas escritas libres pueden tener formulaciones válidas no previstas; no hay envío de resultados a profesor ni control antitrampas; el simulacro es de práctica con retroalimentación inmediata, no examen oficial; falta cotejo completo contra cada página de los libros.
+INSTALACIÓN: sustituir todos los archivos en la raíz del repositorio B1Repaso. Cerrar/reabrir la PWA tras actualizar. No borrar datos del navegador si se quiere conservar progreso.

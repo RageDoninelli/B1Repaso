@@ -1,9 +1,5 @@
-V.I.V.A. Academy B1 Exam Trainer — Extended edition
+V.I.V.A. B1 Exam Trainer — versión auditada.
 
-Upload the CONTENTS of this ZIP to the root of your GitHub Pages repository B1Repaso (replace old files). Keep the folder structure flat.
-
-Chrome Android: open https://ragedoninelli.github.io/B1Repaso/ and reload. Existing installed app should update after the new service worker activates; close and reopen if needed.
-
-Includes 12 grammar topics, original practice questions, randomized 36-question mock exam, local progress, PWA manifest, offline cache and PNG icons. The exact book exercises are NOT copied. Student work is not sent to a server.
-
-A limitation: typed responses require close text matching; teacher review is recommended for alternative valid formulations.
+Publicar TODOS los archivos en la raíz de B1Repaso, sin carpeta envolvente. Abrir la URL existente.
+La app conserva resultados en localStorage y ofrece simulacros de práctica, no evaluaciones oficiales.
+Ver AUDITORIA.txt para alcance y limitaciones.
